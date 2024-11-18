@@ -12,6 +12,16 @@ root.render(
     <div className="Search">
       <h1>Weather App</h1>
       <Search />
+      <br></br>
+
+      <a
+        className="Github-link"
+        href="https://github.com/El20-rani/weather-app-with-react.git"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        Github link
+      </a>
     </div>
   </React.StrictMode>
 );
